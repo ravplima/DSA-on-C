@@ -7,6 +7,6 @@ This project aims to implement some traditional data structures and algorithms i
 
 ## Data Structures
 
-- [] List
+- [ ] List
 
 ## Algorithms
